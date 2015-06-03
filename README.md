@@ -3,11 +3,14 @@
 
 (c) 2015 Dr. Kristian Rother
 
+**Lizenz:** Creative Commons Namensnennung 4.0
+
 Kontakt: [krother@academis.eu](mailto:krother@academis.eu)
 
 [www.academis.eu](http://www.academis.eu)
 
-**Lizenz:** Creative Commons Namensnennung 4.0
+Weitere Lehrmaterialien zu verwandten Themen findest Du unter: [www.gitbook.com/@krother](www.gitbook.com/@krother)
+
 
 ## Einführung
 
@@ -30,5 +33,9 @@ Die US-Behörden veröffentlichen die Vornamen der seit 1880 als US-Bürger gebo
 Die vollständigen Daten sind unter [http://www.ssa.gov/oact/babynames/limits.html
 ](http://www.ssa.gov/oact/babynames/limits.html) verfügbar.
 
+
+## Hinweis für Trainer und Dozenten
+
+Du darfst die Quellen dieses e-Books gerne kopieren, modifizieren und ergänzen. Bitte achte darauf, daß die Lizenzvereinbarung und der Autor erhalten bleibt. Trage Dich einfach dazu. Du findest die Quellen unter [https://github.com/krother/Spreadsheet_Tutorial](https://github.com/krother/Spreadsheet_Tutorial).
 
 

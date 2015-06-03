@@ -23,6 +23,8 @@ In diesem Kurs kannst Du lernen:
 
 ### Die Statistik der häufigsten Babynamen
 
+![Babynamen](images/baby.png)
+
 Die US-Behörden veröffentlichen die Vornamen der seit 1880 als US-Bürger geborenen Menschen. Aus Datenschutzgründen sind nur Namen enthalten, die mindestens 5 Mal in einem Jahr verwendet wurden. In diesem Kurs werden wir diesen Datensatz genauer untersuchen.
 
 Die vollständigen Daten sind unter [http://www.ssa.gov/oact/babynames/limits.html

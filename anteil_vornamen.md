@@ -46,6 +46,8 @@ Einige tausend Zeilen mit der Maus zu markieren ist etwas beschwerlich. Wähle s
 
 Schneide alle drei Spalten zu Jungennamen mit **Editieren -> Ausschneiden** oder **Strg + x** aus. Fahre ganz nach oben und wähle die Zelle **E1** an. Drücke **Editieren -> Einfügen** oder **Strg + v**, um die Daten dort einzufügen. 
 
+![Mädchen und Jungen nebeneinander](images/girls_boys.png)
+
 #### Frage
 
 Gibt es mehr verschiedene Jungen- oder Mädchennamen?
@@ -56,6 +58,8 @@ Gibt es mehr verschiedene Jungen- oder Mädchennamen?
 Fahre in **Spalte C** ganz nach unten. Gehe in die erste leere Zeile und schreibe dort:
 
     =SUM(C1:C333)
+
+![Summe bilden](images/make_sum.png)
 
 Drücke die Eingabetaste. Wenn Du ein *####* siehst, verbreitere die Spalte im Tabellenkopf durch Ziehen mit der Maus (alternativ: *Rechtsklick auf C -> Optimale Spaltenbreite*).
 

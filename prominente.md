@@ -17,6 +17,7 @@ Wir betrachten folgende mit Namen verknüpfte Ereignisse:
 | John F. Kennedy | wird in Dallas ermordet |
 | Madonna | erste Nr.1 in den Charts |
 | Osama Bin Laden | wird zum Drahtzieher der 9/11 Anschläge erklärt |
+| Hillary Clinton | First Lady und Prädidentschaftskandidatin |
 | Barack Obama    | erster farbiger Präsident der USA |
 | Katrina         | Hurrikan verwüstet New Orleans |
 | Leonidas        | Der Film '300' erscheint in den Kinos |
@@ -37,33 +38,28 @@ Wir betrachten folgende mit Namen verknüpfte Ereignisse:
 
 Wir werden versuchen, einige der obigen Ereignisse mit Hilfe der Geburtenstatistik grob zu datieren.
 
-### 1. Von Hand
 
-Suche Dir einen der Namen aus der obigen Tabelle aus. Stelle eine Tabelle mit zwei Spalten (**Jahr** und **Anzahl**) auf. Sammle Werte für 10 Jahre aus den Textdateien, indem Du
+### 1. Die Zeitreihe analysieren
 
-1. die Datei für ein bestimmtes Jahr im Texteditor öffnest
-2. nach dem Namen suchst
-3. Jahr und Anzahl in die Tabelle überträgst 
+Lass Dir vom Kursleiter eine Version der Daten geben, in der die Namen nach Jahrgängen gegliedert sind. Untersuche mehrere der Namen aus der Tabelle.
 
-Wähle die 10 Jahre so aus, daß Du eine sinnvolle Aussage treffen kannst.
-
-#### Fragen
-
-* Und? Gibt es tatsächlich Leute, die ihr Kind nach diesem Promi benannt haben?
-* Wann hat Deiner Meinung nach das Ereignis stattgefunden?
-* Welche Jahrgänge hast Du ausgewählt? Warum?
-* Was für Schwierigkeiten treten beim Zusammentragen von Daten auf diese Weise auf?
-
-### 2. In der Tabellenkalkulation
-
-Lass Dir vom Kursleiter eine umformatierte Version der Daten geben, in der die Namen nach Jahrgängen gegliedert sind. Untersuche mehrere der Namen aus der Tabelle und erstelle ein Diagramm über den zeitlichen Verlauf
 
 #### Fragen
 
 * Was sind die Vor- und Nachteile dieser Methode?
+* Und? Gibt es tatsächlich Leute, die ihr Kind nach einem Promi benannt haben?
 
+### 2. Diagramm erstellen
 
-### 3. Hilfsmittel zur Datenaufarbeitung
+Erstelle ein Liniendiagramm für 3-4 Namen. Folgendes sollte erkennbar sein:
 
-Was für Hilfsmittel könnten beim Zusammenfassen von großen Datensätzen wie diesem außer einer Tabellenkalkulation noch behilflich sein?
+* Wähle 3-4 Namen aus, deren Anzahl in einer ähnlichen Größenordnung liegt, sonst kann man nichts erkennen.
+* Auf der X-Achse soll die Zeitachse (Jahre) liegen.
+* Auf der Y-Achse soll die Anzahl sichtbar sein.
+
+Versuche, das Diagramm möglichst übersichtlich zu gestalten? Experimentiere mit der Formatierung (Titel, Legende, Farben usw.).
+
+### 3. Weitere Hilfsmittel zur Datenaufarbeitung
+
+Was für Hilfsmittel könnten beim Untersuchen von großen Datensätzen wie diesem außer einer Tabellenkalkulation noch behilflich sein?
 

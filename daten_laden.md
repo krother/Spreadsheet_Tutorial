@@ -67,8 +67,11 @@ Es erscheint ein Dialog, bei dem Du die Trennzeichen zwischen den Spalten überp
 
 ![Import-Dialog](images/import_dialog.png)
 
+#### Hinweis
+
+Wenn Deine Tabellenkalkulation auf Deutsch eingestellt ist, wird das Komma **`,`** zum Markieren der Nachkommastellen verwendet, im Englischen dagegen der Punkt **`.`**. Wenn Du Daten mit Punkten in ein deutsches Programm laden möchtest oder umgekehrt, mußt Du diese eventuell vorher im Texteditor oder der Tabellenkalkulation selbst **suchen & ersetzen**.
+
 #### Frage
 
 * Wie viele Zeilen hat die Tabelle?
-* Wie viele Spalten hat die Tabelle?
 

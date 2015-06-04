@@ -8,49 +8,46 @@
 
 ## Aufgaben
 
-Wir möchten herausbekommen, wie viele Namen 5-10 mal, 11-50 mal, 50-100 mal usw. vorkommen. Die grafische Darstellung davon nennt man ein **Histogramm**.
+Wir möchten die Namen in drei Klassen einteilen: **sehr häufige**, **häufige** und **seltene**. Wir möchten auszählen, wie viele Namen in jeder Klasse auftreten und diese anschließend grafisch darstellen. Diese grafische Darstellung nennt man ein **Histogramm**.
 
 #### Check
 
-Du brauchst eine geladene Tabelle wie aus der ersten Übung. Es genügen Spalten A-C. Speichere Dir die Tabelle als Sicherheitskopie ab, dann kannst Du die restlichen Spalten löschen.
+Du brauchst eine geladene Tabelle wie die aus der ersten Übung. Es genügen Spalten A-C. Speichere Dir die Tabelle als Sicherheitskopie ab, dann kannst Du die restlichen Spalten löschen.
 
 
-### 1. Anzahlen als Liniendiagramm
+### 1. Festlegen der Klassen
 
-Erstelle ein Liniendiagramm mit den Anzahlen in Spalte C.
+Trage in die leeren Spalten **D** und **E** untereinander die Klassengrenzen ein, nach denen wir zählen werden:
 
-#### Fragen
+| Klasse | Wert |
+|--------|------|
+|        |   0  |
+| selten | 500  |
+| häufig | 1000 |
+| sehr häufig | 10000 |
 
-* Was kannst Du im Diagramm sehen?
-* Was nicht?
+Die erste Zeile mit der Null werden wir als Untergrenze für die Berechnung brauchen
 
-### 2. Intervalle eintragen
+### 3. Klassen auszählen
 
-Trage in die leere Spalte **D** untereinander die Intervallgrenzen ein, nach denen wir zählen werden:
+Wir brauchen nun eine zusätzliche Spalte **E**. Zunächst zählen wir, wie viele Anzahlen von Vornamen in Spalte C innerhalb der Klassen sind. Trage in Spalte **F** ein:
 
-    1
-    10
-    50
-    100
-    500
-    1000
-    5000
-    10000
+#### OpenOffice, Englisch:
 
-### 3. Intervalle auszählen
+    =FREQUENCY(C$1:C$3333, E1)
 
-Wir brauchen nun eine zusätzliche Spalte **D**. Zunächst zählen wir, wie viele Anzahlen von Vornamen in Spalte C innerhalb der Intervalle sind. Trage in Spalte **E** ein:
+#### MS Excel, Deutsch:
 
-    =FREQUENCY(C$1:C$3333, D1)
+    =ZÄHLENWENN(C$1:C$3333; "<=" & E1)
 
 Kopiere die Formel in der Spalte nach unten.
 
 ### 4. das Histogramm darstellen
 
 Stelle die Zahlen in Spalte F als Balkendiagramm dar.
-Du kannst Dir eine Spalte mit Beschriftungen 5-10, 11-50 usw. zurechtlegen, damit das Histogramm leichter lesbar wird.
+Du kannst die Spalte **D** für die Beschriftungen verwenden, damit das Histogramm leichter lesbar wird.
 
-Setze *spacing* auf 0%.
+Setze den Abstand (*spacing*) zwischen den Balken auf 0%.
 
 ![Histogramm](images/histogramm.png)
 

@@ -27,18 +27,14 @@ Damit es nicht zu unübersichtlich wird, geben wir den Spalten Namen. Füge ganz
     Geschlecht
     Anzahl
     Anfangsbuchstabe
-    Kategorie
+    Geraten
     Häufigkeit
 
 Formatiere diese Spaltenbeschriftungen mit **Strg + b** fett.
 
 ### 3. Anfangsbuchstaben ermittlen
 
-Setze in der Spalte D eine Funktion ein, die den Anfangsbuchstaben des Vornamens ermittelt. Suche dazu im Verzeichnis der Funktionen (über das Menü **Einfügen -> Funktion** in der Gruppe **Text**).
-
-Ein Beispiel für eine andere Funktion, die Text verdoppelt:
-
-    =REPT(A2,2)
+Setze in der Spalte D eine Funktion ein, die den Anfangsbuchstaben des Vornamens ermittelt. Suche dazu im Verzeichnis der Funktionen (über das Symbol **f(x)** oder im Menü **Einfügen -> Funktion** in der Gruppe **Text**).
 
 Sobald Du die passende Funktion für den Anfangsbuchstaben gefunden hast, wende diese auf die ganze Spalte an. Fahre in der Tabelle umher und prüfe, ob die richtigen Anfangsbuchstaben in der Tabelle stehen.
 
@@ -51,9 +47,9 @@ Wie lautet die Funktion?
 Du kannst die Spalte mit den Anfangsbuchstaben zentriert formatieren. Dann sind sie leichter zu lesen.
 
 
-### 4. Kategorien festlegen
+### 4. Buchstaben auswählen
 
-Wir möchten alle Buchstaben des Alphabets erfassen. Fülle dazu die Spalte *Kategorie* mit den Buchstaben des Alphabets:
+Wähle fünf Buchstaben aus, von denen Du glaubst, daß sie besonders häufig oder besonders selten auftreten. Schreibe diese in festWir möchten alle Buchstaben des Alphabets erfassen. Trage diese in der Spalte *geraten* ein, z.B.:
 
     A
     B
@@ -65,7 +61,13 @@ Wir möchten alle Buchstaben des Alphabets erfassen. Fülle dazu die Spalte *Kat
 
 Nun zählen wir, wie oft jeder Anfangsbuchstabe in den Vornamen vorkommt. Dazu verwenden wir die Funktion *COUNTIF*, die unseren Datensatz mit den Kategorien verlgeicht. Trage in die Spalte *Häufigkeit* ein:
 
+#### OpenOffice, Englisch:
+
     =COUNTIF(D$2:D$333, E2)
+
+#### MS Excel, Deutsch:
+
+    =ZÄHLENWENN(D$2:D$333; E2)
 
 Ersetze die *333* durch die letzte Zeilennummer mit Vornamen. Kopiere dann diese Zeile für alle 26 Buchstaben.
 

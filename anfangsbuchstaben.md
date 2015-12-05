@@ -30,7 +30,7 @@ Damit es nicht zu unübersichtlich wird, geben wir den Spalten Namen. Füge ganz
     Geraten
     Häufigkeit
 
-Formatiere diese Spaltenbeschriftungen mit **Strg + b** fett.
+Formatiere diese Spaltenbeschriftungen fett.
 
 ### 3. Anfangsbuchstaben ermittlen
 
@@ -49,9 +49,9 @@ Wie lautet die Funktion?
 Du kannst die Spalte mit den Anfangsbuchstaben zentriert formatieren. Dann sind sie leichter zu lesen.
 
 
-### 4. Buchstaben auswählen
+### 4. Buchstaben als Kategorien schreiben
 
-Wähle fünf Buchstaben aus, von denen Du glaubst, daß sie besonders häufig oder besonders selten auftreten. Schreibe diese in festWir möchten alle Buchstaben des Alphabets erfassen. Trage diese in der Spalte *geraten* ein, z.B.:
+Wir möchten alle Buchstaben des Alphabets erfassen. Trage diese in der Spalte *geraten* ein, z.B.:
 
     A
     B

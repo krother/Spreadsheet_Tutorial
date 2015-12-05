@@ -36,6 +36,6 @@ Die vollständigen Daten sind unter [http://www.ssa.gov/oact/babynames/limits.ht
 
 ## Hinweis für Trainer und Dozenten
 
-Du darfst die Quellen dieses e-Books gerne kopieren, modifizieren und ergänzen. Bitte achte darauf, daß die Lizenzvereinbarung und der Autor erhalten bleibt. Trage Dich einfach dazu. Du findest die Quellen unter [https://github.com/krother/Spreadsheet_Tutorial](https://github.com/krother/Spreadsheet_Tutorial).
+Du darfst dieses e-Book oder Teile davon gerne kopieren, modifizieren und ergänzen. Bitte achte darauf, daß die Lizenzvereinbarung und ein Hinweis auf den Autor erhalten bleibt. Trage Dich einfach als Autor dazu. 
 
-
+Dieses e-Book wurde mit dem Tool **gitbook** erstellt. Du findest die Quellen unter [https://github.com/krother/Spreadsheet_Tutorial](https://github.com/krother/Spreadsheet_Tutorial).

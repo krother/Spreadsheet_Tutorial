@@ -57,13 +57,17 @@ Gibt es mehr verschiedene Jungen- oder Mädchennamen?
 
 Fahre in **Spalte C** ganz nach unten. Gehe in die erste leere Zeile und schreibe dort:
 
+    =SUMME(C1:C333)
+
+oder in einem englischsprachigen System:
+
     =SUM(C1:C333)
 
 ![Summe bilden](images/make_sum.png)
 
 Drücke die Eingabetaste. Wenn Du ein *####* siehst, verbreitere die Spalte im Tabellenkopf durch Ziehen mit der Maus (alternativ: *Rechtsklick auf C -> Optimale Spaltenbreite*).
 
-Setze nun für *333* die Nummer der letzten Zeile mit Daten ein. Formatiere die Zahl mit **Strg + b** fett.
+Setze nun für *333* die Nummer der letzten Zeile mit Daten ein.
 
 #### Frage
 

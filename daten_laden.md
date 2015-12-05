@@ -25,27 +25,20 @@ Du kannst die Dateien von [http://www.ssa.gov/oact/babynames/limits.html](http:/
 
 * Wie viele Dateien befinden sich im Ordner *names*?
 
-### 2. Umbenennen von Dateien
 
-Für manche Tabellenkalkulationen ist die Endung des Dateinamens wichtig, damit das Format richtig erkannt wird. Um die Dateinamen zu sehen, mußt Du unter Windows eventuell unter *Ordneroptionen* die Endungen einblenden.
+### 2. Das Datenformat inspizieren
 
-Ändere die Endung von zwei Dateinamen (1900, 2000) von **TXT** nach **CSV**. 
-
-### 3. Das Datenformat inspizieren
-
-Die Dateien befinden sich im Format CSV (comma separated values).
-Öffne eine der CSV-Dateien im Texteditor (unter Windows z.B. Notepad oder Wordpad).
+Die Daten sind in Textdateien gespeichert. Öffne eine der Dateien in einem beliebigen Texteditor (unter Windows z.B. Notepad oder Wordpad).
 
 ![Datei im Texteditor](images/gedit.png)
 
 #### Fragen
 
-* Gibt es einen Unterschied zwischen dem Inhalt der TXT- und CSV-Dateien?
 * Was für Daten befinden sich in jeder Zeile?
 * Wie sind die Spalten voneinander abgegrenzt?
-* Mit was für Daten wäre das CSV-Format schwierig zu verwenden? 
+* Mit was für Daten wäre das Format schwierig zu verwenden? 
 
-### 4. Eine Tabellenkalkulation starten
+### 3. Eine Tabellenkalkulation starten
 
 Starte eine beliebige Tabellenkalkulation. Vergleiche die Programme aus der Tabelle.
 
@@ -57,9 +50,9 @@ Starte eine beliebige Tabellenkalkulation. Vergleiche die Programme aus der Tabe
 
 Für unsere Zwecke sind alle diese Programme mehr als ausreichend.
 
-### 5. Lade eine CSV-Datei
+### 4. Lade eine Textdatei
 
-Öffne eine der CSV-Dateien in Deiner Tabellenkalkulation. Verwende die Option *Datei -> Öffnen* und wähle als Dateityp etwas ähnliches wie *Text - CSV* aus (unter Umständen mußt Du ziemlich weit in der Liste nach unten fahren). 
+Öffne eine der Dateien in Deiner Tabellenkalkulation. Verwende die Option *Datei -> Öffnen* und wähle als Dateityp etwas wie (*Textdateien, Text/CSV* o.ä.) aus (bei Open Office mußt Du ziemlich weit in der Liste nach unten fahren). 
 
 ![CSV-Datei öffnen](images/open_csv.png)
 
@@ -75,3 +68,8 @@ Wenn Deine Tabellenkalkulation auf Deutsch eingestellt ist, wird das Komma **`,`
 
 * Wie viele Zeilen hat die Tabelle?
 
+### Umbenennen von Dateien
+
+Für manche Tabellenkalkulationen ist die Endung des Dateinamens wichtig, damit das Format richtig erkannt wird. Um die Dateinamen zu sehen, mußt Du unter Windows eventuell unter *Ordneroptionen* die Endungen einblenden.
+
+Falls die Dateien mit der Endung **TXT** nicht geladen werden können, ändere die Endung von zwei Dateinamen (1900, 2000) von **TXT** nach **CSV**. 

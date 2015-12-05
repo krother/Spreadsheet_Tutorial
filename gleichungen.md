@@ -18,7 +18,7 @@ Trage in zwei benachbarten Spalten ein:
 | **1** |   1   |   10  | 
 | **2** | =A1+1 |       |
 | **3** |       |       |
-| **4** |       |       |
+| **4** |       |       | |
 
 Kopiere mit **Strg-c** und **Strg-v** die Zelle **A2** in die leeren Zellen.
 
@@ -34,7 +34,7 @@ Trage in zwei benachbarten Spalten ein:
 | **1** |   1   |   10  | 
 | **2** | =A$1+1 |       |
 | **3** |       |       |
-| **4** |       |       |
+| **4** |       |       | |
 
 Kopiere mit **Strg-c** und **Strg-v** die Zelle **A2** in die leeren Zellen.
 
@@ -57,6 +57,12 @@ Trage in zwei benachbarte Zellen ein:
 
 |       | **A** | **B** |
 |-------|-------|-------|
-| **1** | Bla   | =REPT(A1, 2) |
+| **1** | Bla   | =WIEDERHOLEN(A1; 3) |
+
+In einem englischsprachigen Programm ist die Formel etwas anders:
+
+|       | **A** | **B** |
+|-------|-------|-------|
+| **1** | Bla   | =REPT(A1, 3) |
 
 Was beobachtest Du?

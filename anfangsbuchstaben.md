@@ -34,7 +34,9 @@ Formatiere diese Spaltenbeschriftungen mit **Strg + b** fett.
 
 ### 3. Anfangsbuchstaben ermittlen
 
-Setze in der Spalte D eine Funktion ein, die den Anfangsbuchstaben des Vornamens ermittelt. Suche dazu im Verzeichnis der Funktionen (über das Symbol **f(x)** oder im Menü **Einfügen -> Funktion** in der Gruppe **Text**).
+Setze in der Spalte D eine Funktion ein, die den Anfangsbuchstaben des Vornamens ermittelt. Suche dazu im Verzeichnis der Funktionen (über das Symbol **f(x)** oder im Menü **Einfügen -> Funktion** in der Kategorie **Text**).
+
+Schaue Dir die Beschreibung der einzelnen Funktionen an.
 
 Sobald Du die passende Funktion für den Anfangsbuchstaben gefunden hast, wende diese auf die ganze Spalte an. Fahre in der Tabelle umher und prüfe, ob die richtigen Anfangsbuchstaben in der Tabelle stehen.
 

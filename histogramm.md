@@ -8,7 +8,7 @@
 
 ## Aufgaben
 
-Wir möchten die Namen in drei Klassen einteilen: **sehr häufige**, **häufige** und **seltene**. Wir möchten auszählen, wie viele Namen in jeder Klasse auftreten und diese anschließend grafisch darstellen. Diese grafische Darstellung nennt man ein **Histogramm**.
+Wir möchten die Namen in drei Klassen einteilen: **sehr häufige**, **häufige** und **seltene**. Wir möchten auszählen, wie viele Namen in jeder Klasse auftreten und diese anschließend grafisch darstellen. Eine solche grafische Darstellung nennt man ein **Histogramm**.
 
 #### Check
 
